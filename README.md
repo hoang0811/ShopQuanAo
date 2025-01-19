@@ -27,7 +27,7 @@ Link demo: [ShopQuầnÁo](https://your-demo-link.com)
 
 ### Hình ảnh minh họa
 ![Trang chủ (1)](https://drive.google.com/file/d/1-WVQmCWV_rtMddYktOkHjFEYftCrjFYN/view?usp=sharing)
-![Sản Phẩm]([https://drive.google.com/file/d/1r0h9ywOEfqf8DRZmOA67wufuaPgPChbs/view?usp=sharing](https://drive.google.com/file/d/1r0h9ywOEfqf8DRZmOA67wufuaPgPChbs/view?pli=1))
+![Sản Phẩm](https://drive.google.com/file/d/1-WVQmCWV_rtMddYktOkHjFEYftCrjFYN/view?usp=drive_link)
 
 
 ---
