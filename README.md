@@ -1,6 +1,6 @@
-# ShopQuầnÁo
+# Shop bán quần áo
 
-ShopQuầnÁo là một website thương mại điện tử đơn giản, nơi người dùng có thể duyệt, tìm kiếm và mua quần áo. Dự án được phát triển bằng Laravel và Vue.js.
+hop bán quần áo là một website thương mại điện tử đơn giản, nơi người dùng có thể duyệt, tìm kiếm và mua quần áo. Dự án được phát triển bằng Laravel.
 
 ---
 
@@ -14,14 +14,27 @@ ShopQuầnÁo là một website thương mại điện tử đơn giản, nơi n
 - **Người dùng**:
   - Đăng ký, đăng nhập và quản lý tài khoản.
   - Thêm sản phẩm vào giỏ hàng và yêu thích.
-  - Tính phí vận chuyển thông qua GHN API.
-  - Thanh toán qua MoMo và VNPay.
+  - Đặt hàng và thanh toán.
 - **Quản trị viên**:
-  - Quản lý sách, đơn hàng, báo cáo.
-  - Thêm/sửa/xóa danh mục, tác giả, nhà xuất bản.
+  - Quản lý thương hiệu.
+  - Quản lý danh mục.
+  - Quản lý sản phẩm.
+  - Quản lí đơn hàng.
+---
+## Demo
+
+Link demo: [ShopQuầnÁo](https://your-demo-link.com)
+
+### Hình ảnh minh họa
+![Trang chủ (1)](https://drive.google.com/file/d/1-WVQmCWV_rtMddYktOkHjFEYftCrjFYN/view?usp=drive_link)
+![Sản Phẩm](https://drive.google.com/file/d/1r0h9ywOEfqf8DRZmOA67wufuaPgPChbs/view?usp=drive_link)
+
 
 ---
 
+## Liên hệ
+- Tác giả: [Hoang0811](https://github.com/hoang0811)
+- Email: hoangthanh081102@gmail.com
 ## Hướng dẫn cài đặt
 
 ### Yêu cầu hệ thống
@@ -69,25 +82,3 @@ ShopQuầnÁo là một website thương mại điện tử đơn giản, nơi n
 
 ---
 
-## Demo
-
-Link demo: [ShopQuầnÁo](https://your-demo-link.com)
-
-### Hình ảnh minh họa
-![Trang chủ](https://via.placeholder.com/800x400.png?text=Home+Page)
-![Giỏ hàng](https://via.placeholder.com/800x400.png?text=Cart+Page)
-
----
-
-## Công nghệ sử dụng
-- **Frontend**: Vue.js, TailwindCSS
-- **Backend**: Laravel
-- **Cơ sở dữ liệu**: MySQL
-- **Thanh toán**: VNPay, MoMo
-- **API vận chuyển**: GHN API
-
----
-
-## Liên hệ
-- Tác giả: [Hoang0811](https://github.com/hoang0811)
-- Email: your-email@example.com
